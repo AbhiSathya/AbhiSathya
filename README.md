@@ -1,5 +1,3 @@
-<h1 align="left"> I'm Deepak 👋.</h1>
-
 ![](https://komarev.com/ghpvc/?username=AbhiSathya&color=green)
 
 ### 👨‍💻 About Me:
