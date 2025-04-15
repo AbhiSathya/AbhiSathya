@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AbhiSathya&color=green)
 
-
 ### 👨‍💻 About Me:
 <h1 align="center">Hi 👋, I'm Deepak Reddy Bondugula</h1>
 <h3 align="center">A passionate developer</h3>
@@ -42,7 +41,6 @@
 [<img align="left" alt="Jupyter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin: 1px;" />](https://jupyter.org/)
 [<img align="left" alt="Canva" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="margin: 1px;" />](https://www.canva.com/)
 [<img align="left" alt="Truffle" width="25px" src="https://avatars.githubusercontent.com/u/22271554?s=200&v=4" style="margin: 1px;" />](https://trufflesuite.com/)
-[<img align="left" alt="MetaMask" width="25px" src="https://raw.githubusercontent.com/SVG-logos/logos/master/metamask.svg" style="margin: 1px;" />](https://metamask.io/)
 
 <br />
 <br />
