@@ -1,60 +1,98 @@
-![](https://komarev.com/ghpvc/?username=AbhiSathya&color=green)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AbhiSathya&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
 
-### 👨‍💻 About Me:
-<h1 align="center">Hi 👋, I'm Deepak Reddy Bondugula</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hey 👋 I'm Deepak Reddy Bondugula</h1>
 
-### 💬 Ask me about:
-- 🌱 I’m currently learning **Blockchain, Artificial Intelligence**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Data+Engineering+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=600&height=50">
+</p>
 
-- 💬 Ask me about **AI, Web3, Webdev**
+## 🚀 About Me
 
-- 📫 How to reach me **deepakreddy6525@gmail.com**
+🔹 Full Stack Developer who loves backend architecture  
+🔹 Building production-grade real-time systems  
+🔹 Interested in Distributed Systems & Scalable Infrastructure  
+🔹 Currently focused on system design & CI/CD  
 
-### 🔗 Connect with me:
-[<img align="left" alt="sumitnce | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+💡 I don’t just build apps — I build systems.
 
-<br />
+---
 
-### 🚀 Languages and Tools:
-[<img align="left" alt="visual studio code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin: 1px;" />](https://code.visualstudio.com)
-[<img align="left" alt="Java" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin: 1px;" />](https://www.java.com)
-[<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="margin: 1px;" />](https://nodejs.org)
-[<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin: 1px;" />](https://www.javascript.com)
-[<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin: 1px;" />](https://reactjs.org)
-[<img align="left" alt="MongoDB" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="margin: 1px;" />](https://www.mongodb.com)
-[<img align="left" alt="MySQL" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin: 1px;" />](https://www.mysql.com)
-[<img align="left" alt="GitHub Codespaces" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" style="margin: 1px;" />](https://github.com/codespaces)
-[<img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 1px;" />](https://git-scm.com/)
-[<img align="left" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="margin: 1px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="margin: 1px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="Tailwind CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="margin: 1px;" />](https://tailwindcss.com/)
-[<img align="left" alt="Express.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="margin: 1px;" />](https://expressjs.com/)
-[<img align="left" alt="Material UI" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="margin: 1px;" />](https://mui.com/)
-[<img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 1px;" />](https://www.python.org)
-[<img align="left" alt="Postman" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin: 1px;" />](https://www.postman.com/)
-[<img align="left" alt="IntelliJ" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="margin: 1px;" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 1px;" />](https://www.linux.org/)
-[<img align="left" alt="GitHub Codespaces" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" style="margin: 1px;" />](https://github.com/codespaces)
-[<img align="left" alt="Jupyter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin: 1px;" />](https://jupyter.org/)
-[<img align="left" alt="Canva" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="margin: 1px;" />](https://www.canva.com/)
-[<img align="left" alt="Truffle" width="25px" src="https://avatars.githubusercontent.com/u/22271554?s=200&v=4" style="margin: 1px;" />](https://trufflesuite.com/)
+## 🛠️ Tech Stack
 
-<br />
-<br />
-<br />
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,fastapi,express,nodejs,postgres,mongodb,redis,kafka,spark" />
+</p>
 
-### 📊 GitHub Stats:
-![SUMIT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiSathya&show_icons=true&count_private=true&theme=dark)
-
-### 🔥 Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSathya&layout=compact&theme=dark)
-
-### 🏆 Github Trophies
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=AbhiSathya&theme=onedark&column=9&margin-w=25&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,redux" />
+</p>
 
 
+### 🧠 Data & Streaming
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏙️ Smart City Trash Bin Monitor
+> Real-time IoT data pipeline processing 500+ events/min  
+
+- Kafka + Spark Structured Streaming  
+- FastAPI + PostgreSQL  
+- Redis Caching  
+- JWT Auth  
+- Next.js Dashboard  
+
+---
+
+### 🤖 Wiki Quiz Generator (LLM Powered)
+
+- Scrapes Wikipedia  
+- Uses Gemini via LangChain  
+- Generates dynamic MCQs  
+- Full-stack architecture  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiSathya&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiSathya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AbhiSathya&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+## 🧠 Current Focus
+
+- Advanced FastAPI
+- Production-grade CI/CD
+- Distributed Systems
+- Backend performance optimization
+- System Design
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: (add link)
+- 📧 Email: (add email)
+- 🌍 Portfolio: (if any)
+
+---
+
+⭐ If you like scalable systems, backend engineering & clean architecture — we’ll get along well.
 
 [linkedin]: https://linkedin.com/in/deepak-reddy-bondugula
  
