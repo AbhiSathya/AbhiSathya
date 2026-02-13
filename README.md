@@ -70,7 +70,7 @@
 </table>
 
 
-## 🚀 Featured Projects
+## 🚀 Recent Projects
 
 ## 🏙️ Smart City Trash Bin Monitor
 
