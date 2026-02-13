@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Open+to+Internship+Opportunities;💼+Open+to+Full-Time+Backend+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
----
 
 ## 📄 Resume
 
@@ -22,9 +21,12 @@
   </a>
 </p>
 
----
 
 ## 🚀 About Me
+
+<table border="0">
+<tr>
+<td width="60%">
 
 🔹 Full Stack Developer with strong backend focus  
 🔹 Building production-grade real-time systems  
@@ -33,7 +35,16 @@
 
 💡 *I don’t just build apps — I build systems.*
 
----
+</td>
+
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+</td>
+
+</tr>
+</table>
+
+
 
 ## 🛠️ Tech Stack
 
@@ -53,16 +64,20 @@
 </td>
 
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxNjBibnIxMW9yN3F4cGYyMTN3emdvZjN2Z2c2bXk1eGM2ZmJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiRfN8fgoaJlGI9pbn/giphy.gif" width="100%"/>
 </td>
 </tr>
 </table>
 
----
 
 ## 🚀 Featured Projects
 
-### 🏙️ Smart City Trash Bin Monitor  
+## 🏙️ Smart City Trash Bin Monitor
+
+<table border="0">
+<tr>
+<td width="60%">
+
 > Real-time IoT data pipeline processing 500+ events/min  
 
 - Kafka + Spark Structured Streaming  
@@ -71,14 +86,37 @@
 - JWT Authentication  
 - Next.js Dashboard  
 
+Designed a scalable streaming architecture with
+windowed aggregations, deduplication, and real-time risk analysis.
+</td>
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/AbhiSathya/AbhiSathya/main/smart_city_trash_bin_monitoring_system_architecture.jpeg" width="100%"/>
+</td>
+</tr>
+</table>
+ 
+
 ### 🤖 Wiki Quiz Generator (LLM Powered)
 
+<table border="0">
+<tr>
+<td width="60%">
+
+> Wiki Quiz Generator is a full‑stack application that accepts a Wikipedia article URL and automatically generates a quiz using a Large Language Model (LLM).
+  
 - Wikipedia scraping (no API)  
 - Gemini via LangChain  
 - Dynamic MCQ generation  
 - Full-stack architecture  
 
----
+</td>
+
+<td width="40%" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBtYjcwaDViMHU0d3lqZ2cxOW9mbTJkZG53d3A2ZWlibmxtajl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzP4cmBsiOrccg20V/giphy.gif"  height="250" width="370" />
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
@@ -91,7 +129,6 @@
   <img width="75%" src="https://streak-stats.demolab.com?user=AbhiSathya&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🧠 Current Focus
 
@@ -101,7 +138,6 @@
 - Backend Performance Optimization  
 - Scalable System Design  
 
----
 
 ## 📫 Let's Connect
 
@@ -115,6 +151,5 @@
   </a>
 </p>
 
----
 
 ⭐ If you like scalable systems, backend engineering & clean architecture — we’ll get along well.
