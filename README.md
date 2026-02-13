@@ -8,55 +8,74 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Data+Engineering+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=600&height=50">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Open+to+Internship+Opportunities;💼+Open+to+Full-Time+Backend+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/AbhiSathya/AbhiSathya/main/Deepak_B_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
-🔹 Full Stack Developer who loves backend architecture  
+🔹 Full Stack Developer with strong backend focus  
 🔹 Building production-grade real-time systems  
-🔹 Interested in Distributed Systems & Scalable Infrastructure  
-🔹 Currently focused on system design & CI/CD  
+🔹 Passionate about Distributed Systems & Scalable Infrastructure  
+🔹 Focused on System Design, Performance & CI/CD  
 
-💡 I don’t just build apps — I build systems.
+💡 *I don’t just build apps — I build systems.*
 
 ---
 
 ## 🛠️ Tech Stack
 
+<table border="0">
+<tr>
+<td width="60%">
+
 ### ⚙️ Backend
-<p>
 <img src="https://skillicons.dev/icons?i=python,javascript,fastapi,express,nodejs,postgres,mongodb,redis,kafka,spark" />
-</p>
 
 ### 🎨 Frontend
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,redux" />
-</p>
 
-
-### 🧠 Data & Streaming
-<p>
+### 🧠 DevOps & Data
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
-</p>
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏙️ Smart City Trash Bin Monitor
+### 🏙️ Smart City Trash Bin Monitor  
 > Real-time IoT data pipeline processing 500+ events/min  
 
 - Kafka + Spark Structured Streaming  
 - FastAPI + PostgreSQL  
 - Redis Caching  
-- JWT Auth  
+- JWT Authentication  
 - Next.js Dashboard  
-
----
 
 ### 🤖 Wiki Quiz Generator (LLM Powered)
 
-- Scrapes Wikipedia  
-- Uses Gemini via LangChain  
-- Generates dynamic MCQs  
+- Wikipedia scraping (no API)  
+- Gemini via LangChain  
+- Dynamic MCQ generation  
 - Full-stack architecture  
 
 ---
@@ -69,30 +88,33 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=AbhiSathya&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=AbhiSathya&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
 ## 🧠 Current Focus
 
-- Advanced FastAPI
-- Production-grade CI/CD
-- Distributed Systems
-- Backend performance optimization
-- System Design
+- Advanced FastAPI Architecture  
+- Production-grade CI/CD Pipelines  
+- Distributed Systems Design  
+- Backend Performance Optimization  
+- Scalable System Design  
+
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
-- 🌍 Portfolio: (if any)
+<p align="center">
+  <a href="https://linkedin.com/in/deepak-reddy-bondugula" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Reddy%20Bondugula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:deepakreddy6525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-deepakreddy6525@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ⭐ If you like scalable systems, backend engineering & clean architecture — we’ll get along well.
-
-[linkedin]: https://linkedin.com/in/deepak-reddy-bondugula
- 
