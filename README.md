@@ -9,16 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Open+to+Internship+Opportunities;💼+Open+to+Full-Time+Backend+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
-</p>
-
-
-## 📄 Resume
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/AbhiSathya/AbhiSathya/main/Deepak_B_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=💼+Open+to+Full-Time+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 
@@ -33,7 +24,7 @@
 🔹 Passionate about Distributed Systems & Scalable Infrastructure  
 🔹 Focused on System Design, Performance & CI/CD  
 
-💡 *I don’t just build apps — I build systems.*
+💡 *Learning to build systems not just apps.*
 
 </td>
 
