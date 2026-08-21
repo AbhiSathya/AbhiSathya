@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Data+Engineering+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=600&height=50">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=💼+Open+to+Full-Time+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
-</p>
-
-
 ## 🚀 About Me
 
 <table border="0">
@@ -22,7 +17,7 @@
 🔹 Full Stack Developer with strong backend focus  
 🔹 Building production-grade real-time systems  
 🔹 Passionate about Distributed Systems & Scalable Infrastructure  
-🔹 Focused on System Design, Performance & CI/CD  
+🔹 Focused on System Design, Performance  
 
 💡 *Learning to build systems not just apps.*
 
@@ -87,47 +82,12 @@ windowed aggregations, deduplication, and real-time risk analysis.
 </table>
  
 
-### 🤖 Wiki Quiz Generator (LLM Powered)
-
-<table border="0">
-<tr>
-<td width="60%">
-
-> Wiki Quiz Generator is a full‑stack application that accepts a Wikipedia article URL and automatically generates a quiz using a Large Language Model (LLM).
-  
-- Wikipedia scraping (no API)  
-- Gemini via LangChain  
-- Dynamic MCQ generation  
-- Full-stack architecture  
-
-</td>
-
-<td width="40%" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBtYjcwaDViMHU0d3lqZ2cxOW9mbTJkZG53d3A2ZWlibmxtajl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzP4cmBsiOrccg20V/giphy.gif"  height="250" width="370" />
-
-</td>
-</tr>
-</table>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiSathya&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiSathya&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=AbhiSathya&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 🧠 Current Focus
-
-- Advanced FastAPI Architecture  
-- Production-grade CI/CD Pipelines  
-- Distributed Systems Design  
-- Backend Performance Optimization  
-- Scalable System Design  
 
 
 ## 📫 Let's Connect
@@ -141,6 +101,3 @@ windowed aggregations, deduplication, and real-time risk analysis.
     <img src="https://img.shields.io/badge/Gmail-deepakreddy6525@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-⭐ If you like scalable systems, backend engineering & clean architecture — we’ll get along well.
